@@ -18,13 +18,13 @@ I'm a passionate Data Analyst and Data Scientist with experience in transforming
 I’m open to exciting projects in Data Science, Machine Learning, Business Intelligence, and App Development. If you’re working on something impactful, let’s connect!
 
 
-📫 **Get in Touch**
+-📫 **Get in Touch**
 
--✉️ Email: oseivictor10@yahoo.com
+- ✉️ Email: oseivictor10@yahoo.com
 
--🌍 GitHub: Victor-Osei
+- 🌍 GitHub: Victor-Osei
 
--💼 LinkedIn: [https://www.linkedin.com/in/victor-osei-duah-a9182a13a/]
+- 💼 LinkedIn: [https://www.linkedin.com/in/victor-osei-duah-a9182a13a/]
 
 
   😄 **Fun Fact**: I love solving real-world data challenges and turning complex datasets into meaningful stories!
