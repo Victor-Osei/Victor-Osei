@@ -13,13 +13,17 @@ I'm a passionate Data Analyst and Data Scientist with experience in transforming
 - Business Intelligence: Creating dashboards and reports using Power BI & Tableau.
 - App Development: Building interactive applications for data-driven solutions.
   
-  🤝 **Looking to Collaborate On**
--I’m open to exciting projects in Data Science, Machine Learning, Business Intelligence, and App Development. If you’re working on something impactful, let’s connect!
+-🤝 **Looking to Collaborate On**
+
+I’m open to exciting projects in Data Science, Machine Learning, Business Intelligence, and App Development. If you’re working on something impactful, let’s connect!
+
 
 📫 **Get in Touch**
 
 -✉️ Email: oseivictor10@yahoo.com
+
 -🌍 GitHub: Victor-Osei
+
 -💼 LinkedIn: [https://www.linkedin.com/in/victor-osei-duah-a9182a13a/]
 
 
