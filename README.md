@@ -4,7 +4,7 @@
 
 -🔍 **About Me**
 
-I'm a Data Analyst/Scientist with experience in transforming raw data into actionable insights. As an Azubi Africa Alumni, I have worked on multiple projects involving Python, SQL, Excel, Power BI, Tableau, and Machine Learning to drive data-driven decision-making.
+I'm a Data Analyst/Scientist with experience in transforming raw data into actionable insights. I have worked on multiple projects involving Python, SQL, Excel, Power BI, Tableau, and Machine Learning to drive data-driven decision-making.
 
 -💡 **What I Do**
 
